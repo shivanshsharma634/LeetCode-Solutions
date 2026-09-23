@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0443-string-compression](https://github.com/shivanshsharma634/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/shivanshsharma634/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [1537-get-the-maximum-score](https://github.com/shivanshsharma634/LeetCode-Solutions/tree/master/1537-get-the-maximum-score) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivanshsharma634/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0647-palindromic-substrings](https://github.com/shivanshsharma634/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [1537-get-the-maximum-score](https://github.com/shivanshsharma634/LeetCode-Solutions/tree/master/1537-get-the-maximum-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivanshsharma634/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [1537-get-the-maximum-score](https://github.com/shivanshsharma634/LeetCode-Solutions/tree/master/1537-get-the-maximum-score) |
+## Greedy
+|  |
+| ------- |
+| [1537-get-the-maximum-score](https://github.com/shivanshsharma634/LeetCode-Solutions/tree/master/1537-get-the-maximum-score) |
 <!---LeetCode Topics End-->
